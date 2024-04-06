@@ -1,2 +1,2 @@
 # davidwcode.github.io
-Website for CSE 110
+David's User Page
